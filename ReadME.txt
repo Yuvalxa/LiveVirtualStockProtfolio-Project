@@ -1,7 +1,29 @@
 Welcom To StockMarket Project.
 Project By Yuval Mastey and Tamir Spilberg
 
+Stock Market:
+With the use of live information the program offers the user a unique opportunity to experiment with stocks and virtual currency in real-time. 
+Portfolio:
+The program constantly updates prices, showing stocks behavioral change and user's profit/loss with each update, making sure the user can change his strategy in any given situation in accordance with his balance.
+
+Design Patterns:
+Command Pattern (Broker) 
+Singleton Pattern (Broker , Api)
+MVC 
+
+Threads:
+Stocks Real Time Update ( Every 30 Seconds)
+Stock Data Update (user Choice)
+Main Live Update
+
+Local DataBase:
+MYSQL-  save and load Multi portfolio's current states
+Live stock price updates
+Stock Data up to 1 year
+
+
+ Installtion steps:
 1. Please go to RapidAPI.com subscribe to TewlfeData API for api KEY
 2. Run MySQL query and build local database
 3. export JAVA files make sure you have the right jars.
-4. run program 
+4. run program
