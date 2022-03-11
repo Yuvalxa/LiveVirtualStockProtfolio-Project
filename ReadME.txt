@@ -21,6 +21,10 @@ MYSQL-  save and load Multi portfolio's current states
 Live stock price updates
 Stock Data up to 1 year
 
+GUI:
+Live Stock Updates
+Stock data on an Area chart (Please Check out the image)
+portfolio base functions
 
  Installtion steps:
 1. Please go to RapidAPI.com subscribe to TewlfeData API for api KEY
