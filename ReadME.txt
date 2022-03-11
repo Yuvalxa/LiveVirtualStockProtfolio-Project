@@ -30,4 +30,5 @@ portfolio base functions
 1. Please go to RapidAPI.com subscribe to TewlfeData API for api KEY
 2. Run MySQL query and build local database
 3. export JAVA files make sure you have the right jars.
-4. run program
+4. Go to ApiRequest Package and edit the API KEYS, and username and password for MySQL (JDBC)
+5. run program
