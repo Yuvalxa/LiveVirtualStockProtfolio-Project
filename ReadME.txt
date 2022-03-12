@@ -26,6 +26,11 @@ Live Stock Updates
 Stock data on an Area chart (Please Check out the image)
 portfolio base functions
 
+API:
+Stock Updates From Twelve Data API please make sure to subscribe the Api first.
+(if you wish to use another API please make sure to update the API Requests in APiRequest.class)
+https://rapidapi.com/twelvedata/api/twelve-data1/
+
  Installtion steps:
 1. Please go to RapidAPI.com subscribe to TewlfeData API for api KEY
 2. Run MySQL query and build local database
