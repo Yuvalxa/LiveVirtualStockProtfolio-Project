@@ -13,7 +13,7 @@ MVC
 
 Threads:
 Stocks Real Time Update ( Every 30 Seconds)
-Stock Data Update (user Choice)
+Stock Data Update (user's Choice)
 Main Live Update
 
 Local DataBase:
